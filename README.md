@@ -1,5 +1,6 @@
 # OpenTelemetry 指南
 
+![CI](https://github.com/tensorchen/opentelemetry-book/workflows/CI/badge.svg)
 
 ## 版权许可 
 

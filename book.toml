@@ -1,0 +1,14 @@
+[book]
+authors = ["TensorCHEN"]
+language = "cn"
+multilingual = true
+src = "src"
+title = "OpenTelemetry 指南"
+
+[build]
+create-missing = false
+
+[output.html]
+theme = "src/theme"
+git-repository-url = "https://github.com/tensorchen/opentelemetry-book"
+google-analytics = "UA-171500867-2"

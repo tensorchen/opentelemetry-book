@@ -1,4 +1,4 @@
-# OpenTelemetry 中文指南
+# OpenTelemetry 指南
 
 
 ## 版权许可 
